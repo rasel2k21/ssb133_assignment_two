@@ -69,7 +69,7 @@ nav ul li a:hover{
     margin-bottom: 30px;
 }
 .course-heading h2{
-    color: #666;
+    color: #252222;
     font-size: 28px;
     font-weight: 900;
 }
@@ -125,7 +125,7 @@ aside ul li a:focus{
     transition: .5s;
 }
 .course h3{
-    color: #252222;
+    color: #666;
     padding: 10px 0;
     font-size: 15px;
     font-weight: 200;
